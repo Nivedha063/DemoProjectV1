@@ -7,7 +7,7 @@ public class DuplicateString {
 
 	public static void main(String[] args) {
 		
-		 String input = "Programming";
+		 String input = "Automaattion";
 	        input = input.toLowerCase(); // optional: ignore case
 
 	        Map<Character, Integer> charCountMap = new HashMap<>();
